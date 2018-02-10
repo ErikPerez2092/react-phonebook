@@ -1,0 +1,19 @@
+{
+  "name": "react-phonebook",
+  "version": "1.0.0",
+  "description": "Agenda telefonica creada con React",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikPerez2092/react-phonebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErikPerez2092/react-phonebook/issues"
+  },
+  "homepage": "https://github.com/ErikPerez2092/react-phonebook#readme"
+}
